@@ -1,0 +1,8 @@
+body {
+    padding-top: 5em;
+    height: 100%;
+}
+
+.bg-darker {
+    background-color: #111;
+}
